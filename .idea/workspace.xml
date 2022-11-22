@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677cfbe3-fa6d-42fe-b8aa-5ef7e53fde9f" name="Changes" comment="t71">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.Tutorial7 [run]">
+  <component name="RunManager" selected="Gradle.Tutorial7 [build]">
     <configuration name="Tutorial7 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -111,6 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tutorial7 [build]" />
+        <item itemvalue="Gradle.Tutorial7 [run]" />
         <item itemvalue="Gradle.Tutorial7 [run]" />
         <item itemvalue="Gradle.Tutorial7 [build]" />
       </list>
